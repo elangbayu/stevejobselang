@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-         Elang<br/>Bayu<br/>Segara
+         Ilham<br/>Satriadi
         </h1>
 
       </main>
